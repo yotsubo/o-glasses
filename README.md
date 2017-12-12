@@ -49,7 +49,7 @@ pip install distorm3
 
 1:「win_gnu_gcc_32bit」と判定されたブロックが20個
 
-3:「arm_32bit」と判定されたブロックが2個
+3:「powerpc_32bit」と判定されたブロックが2個
 
 最終的に最も多く判定されたラベル「win_gnu_gcc_32bit」が表示される．
 
