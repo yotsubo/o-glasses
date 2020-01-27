@@ -1,4 +1,4 @@
-# o-glasses
+# o-glasses (prototype ver.)
 
 
 O-glasses is an intuitive binary classification and visualization tool with machine learning.
