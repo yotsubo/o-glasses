@@ -1,9 +1,9 @@
-# o-glasses (prototype ver.)
+# o-glasses (MLP)
 
 
-O-glasses is an intuitive binary classification and visualization tool with machine learning.
+o-glasses is an intuitive binary classification and visualization tool with machine learning.
 
-The concept of O-glasses is easy-to-do eye-grep.
+The concept of o-glasses is easy-to-do eye-grep.
 
 ニューラルネットにより256バイトのファイルの断片データでクラス分類します．
 
@@ -31,7 +31,7 @@ Ubuntu 16.04
 ## Usage
 ####  Mode1(data set validation:データセットの検証)
 The following command shows an example of validating data set you prepare.
-O-glasses divides each file into 256 byte and creates 256-dimensional feature vector from 256 Byte raw data normalization and do validation using k-fold cross validation.  
+o-glasses divides each file into 256 byte and creates 256-dimensional feature vector from 256 Byte raw data normalization and do validation using k-fold cross validation.  
 ```
 >python o-glasses.py -d path-to-data-set 
 ```
